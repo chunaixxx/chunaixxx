@@ -1,1 +1,1 @@
-<h3 align="center">Frontend developer (Vue.js)</h3>
+<h3 align="left">Frontend developer (Vue.js)</h3>
